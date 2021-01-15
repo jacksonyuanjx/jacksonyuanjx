@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey! I'm Jackson <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**jacksonyuanjx/jacksonyuanjx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn&logoColor=white/)](https://www.linkedin.com/in/jackson-yuan/)
+[![](https://img.shields.io/badge/YouTube-grey?style=flat-square&logo=YouTube&logoColor=red)](https://www.youtube.com/channel/UCbmBrWg8WX80aVa6EBA395A)
 
-Here are some ideas to get you started:
+#### 😄 Who Am I
+* I'm a Computer Science student (@ the University of British Columbia - Grad 2022) who loves building applications on the cloud that help deliver social good
+* Former Software Engineer Co-op @ Realtor.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💻 Latest Work
+* a [CLI tool](https://github.com/jacksonyuanjx/InvestmentDivider) published on NPM for dividing investments
+* a [course scheduling platform](https://github.com/ubclaunchpad/life-at-ubc) for UBC students (in development but deployed [here](https://course-load.netlify.app/))
+
+#### 📫 How to Reach Me
+* Feel free to reach me via [LinkedIn](https://www.linkedin.com/in/jackson-yuan/) as I'm always happy to meet new people!
+
+#### 📈 Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacksonyuanjx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+</a>
