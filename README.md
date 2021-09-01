@@ -5,7 +5,7 @@
 
 #### 😄 Who Am I
 * I'm a Computer Science student (@ the University of British Columbia - Grad 2022) who loves building applications on the cloud that help deliver social good
-* Currently an IoT Developer Intern @ IBM
+* Former IoT & AI Developer Intern @ IBM
 * Former Software Engineer Co-op @ Realtor.com
 
 #### 💻 Latest Work
